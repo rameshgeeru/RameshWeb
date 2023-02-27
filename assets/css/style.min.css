@@ -214,7 +214,7 @@ header .flex-wrapper {
 
 .dark-theme .logo-dark,
 .light-theme .logo-light {
-    display: block
+    /* display: block */
 }
 
 header .btn-group {
