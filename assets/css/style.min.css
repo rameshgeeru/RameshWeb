@@ -696,7 +696,8 @@ footer .wrapper {
     }
 
     .hero {
-        text-align: left
+        text-align: left;
+        margin:-10px;
     }
 
     .hero .container {
